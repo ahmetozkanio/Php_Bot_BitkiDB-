@@ -8,7 +8,7 @@ $baglanti = mysqli_connect("localhost", "root", "ozkan", "bitkivt");
 if (!$baglanti) {
     die("Veri Tabanı Bağlantısı Başarısız: " . mysqli_connect_error());
   }
-
+ 
 
 
 $url = "https://www.bitkivt.itu.edu.tr/en/";//genel link sayfasi
