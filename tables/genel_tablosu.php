@@ -1,6 +1,10 @@
 <?php
+
+include 'main.php';
+
+
 //Genel tablosu
-/*
+
 $genel1 = '@<tr>
 <th width="100">Latince İsmi</th><td width="150">(.*?)</td>
 <th width="100">Türkçe İsimleri</th><td>(.*?)</td>
@@ -60,6 +64,4 @@ for($i=0;$i<$say;$i++){
     }
     echo "</br>";
 }
-
-*/
 ?>

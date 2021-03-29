@@ -1,4 +1,7 @@
 <?php
+include 'main.php';
+
+
 for($i=0;$i<$say;$i++)
 {
    echo  $link = $sonuc[1][$i];
